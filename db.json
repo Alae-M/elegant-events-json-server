@@ -34,19 +34,19 @@
     {
       "id": 1,
       "client_name": "Emily & Michael",
-      "testimonial": "Elegant Events made our wedding day absolutely perfect.",
+      "testimonial": "Elegant Events made our wedding day absolutely perfect. They took care of every detail, allowing us to relax and enjoy our special day.",
       "event_name": "Wedding Ceremony"
     },
     {
       "id": 2,
       "client_name": "Sarah & Daniel",
-      "testimonial": "Elegant Events exceeded our expectations.",
+      "testimonial": "From the first meeting to the last dance, Elegant Events exceeded our expectations. Their creativity and professionalism were remarkable.",
       "event_name": "Anniversary Celebration"
     },
     {
       "id": 3,
       "client_name": "Olivia & Ethan",
-      "testimonial": "Choosing Elegant Events was the best decision we made.",
+      "testimonial": "Choosing Elegant Events was the best decision we made for our wedding. They turned our vision into reality and made the planning process enjoyable.",
       "event_name": "Wedding Celebration"
     }
   ]
