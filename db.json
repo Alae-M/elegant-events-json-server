@@ -1,0 +1,53 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "service_name": "Full-Service Wedding Planning",
+      "description": "Comprehensive planning from start to finish."
+    },
+    {
+      "id": 2,
+      "service_name": "Day-of Coordination",
+      "description": "Ensuring everything runs smoothly on your big day."
+    },
+    {
+      "id": 3,
+      "service_name": "Custom Design and Styling",
+      "description": "Creating a cohesive and beautiful design."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "event_name": "Sophia & James Wedding",
+      "description": "A beautiful garden wedding.",
+      "event_date": "2023-06-15"
+    },
+    {
+      "id": 2,
+      "event_name": "Olivia & Ethan Wedding",
+      "description": "A grand ballroom celebration.",
+      "event_date": "2023-09-10"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "client_name": "Emily & Michael",
+      "testimonial": "Elegant Events made our wedding day absolutely perfect.",
+      "event_name": "Wedding Ceremony"
+    },
+    {
+      "id": 2,
+      "client_name": "Sarah & Daniel",
+      "testimonial": "Elegant Events exceeded our expectations.",
+      "event_name": "Anniversary Celebration"
+    },
+    {
+      "id": 3,
+      "client_name": "Olivia & Ethan",
+      "testimonial": "Choosing Elegant Events was the best decision we made.",
+      "event_name": "Wedding Celebration"
+    }
+  ]
+}
