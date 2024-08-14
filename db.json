@@ -3,17 +3,17 @@
     {
       "id": 1,
       "service_name": "Full-Service Wedding Planning",
-      "description": "Comprehensive planning from start to finish."
+      "description": "From the initial consultation to the last dance, we handle every detail of your wedding."
     },
     {
       "id": 2,
       "service_name": "Day-of Coordination",
-      "description": "Ensuring everything runs smoothly on your big day."
+      "description": "Ensuring everything runs smoothly on your big day, so you can focus on enjoying every moment."
     },
     {
       "id": 3,
       "service_name": "Custom Design and Styling",
-      "description": "Creating a cohesive and beautiful design."
+      "description": "Creating a cohesive and beautiful design that reflects your personal style."
     }
   ],
   "portfolio": [
