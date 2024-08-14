@@ -19,14 +19,20 @@
   "portfolio": [
     {
       "id": 1,
-      "event_name": "Sophia & James Wedding",
-      "description": "A beautiful garden wedding.",
+      "event_name": "Sophia & James",
+      "description": "Sophia & James – A Romantic Garden Wedding",
       "event_date": "2023-06-15"
     },
     {
       "id": 2,
-      "event_name": "Olivia & Ethan Wedding",
-      "description": "A grand ballroom celebration.",
+      "event_name": "Olivia & Ethan",
+      "description": "Elegant Beach Wedding",
+      "event_date": "2023-09-10"
+    },
+    {
+      "id": 3,
+      "event_name": "Emily & Michael",
+      "description": "A grand ballroom celebration",
       "event_date": "2023-09-10"
     }
   ],
